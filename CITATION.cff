@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Anabelian Geometry via Fundamental-Group Reconstruction Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-11
+repository-code: "https://github.com/HautevilleHouse/anabelian-geometry-canonical-lane"
+url: "https://github.com/HautevilleHouse/anabelian-geometry-canonical-lane"
+keywords:
+  - anabelian-geometry
+  - galois-theory
+  - algebraic-geometry
+  - fundamental-groups
+  - arithmetic-geometry
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Anabelian Geometry via Fundamental-Group Reconstruction Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-11
