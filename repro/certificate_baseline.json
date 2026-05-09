@@ -1,1 +1,78 @@
-{}
+{
+  "all_pass": true,
+  "all_pass_normalized": true,
+  "blockers": {
+    "ANA_G1": [],
+    "ANA_G2": [],
+    "ANA_G3": [],
+    "ANA_G4": [],
+    "ANA_G5": [],
+    "ANA_G6": [],
+    "ANA_GM": []
+  },
+  "derived": {
+    "strict_coh_zero": true,
+    "strict_margin": 0.8038585209003215
+  },
+  "gates": {
+    "ANA_G1": "PASS",
+    "ANA_G2": "PASS",
+    "ANA_G3": "PASS",
+    "ANA_G4": "PASS",
+    "ANA_G5": "PASS",
+    "ANA_G6": "PASS",
+    "ANA_GM": "PASS"
+  },
+  "inputs": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8038585209003215,
+    "kappa_fundamental": 1.094116,
+    "rho_rigidity": 1.078,
+    "section_transfer": 1.0305400000000002,
+    "sigma_reconstruction": 1.075,
+    "sigma_star_can": 1.054
+  },
+  "lane": {
+    "active_lane": "manifold_constrained",
+    "canonical_theorem_lane": "manifold_constrained"
+  },
+  "meta": {
+    "computed_at_utc": "2026-05-09T22:57:15+00:00",
+    "framework": "anabelian_geometry"
+  },
+  "normalized": {
+    "blockers": {
+      "G1": [],
+      "G2": [],
+      "G3": [],
+      "G4": [],
+      "G5": [],
+      "G6": [],
+      "GCoh": [],
+      "GM": []
+    },
+    "gates": {
+      "G1": "PASS",
+      "G2": "PASS",
+      "G3": "PASS",
+      "G4": "PASS",
+      "G5": "PASS",
+      "G6": "NA",
+      "GCoh": "PASS",
+      "GM": "PASS"
+    }
+  },
+  "schema": {
+    "g6_policy": "NA means this framework has no standalone pre-coherence G6 gate",
+    "normalized_gate_keys": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "GCoh",
+      "GM"
+    ]
+  }
+}
