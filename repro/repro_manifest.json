@@ -7,7 +7,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "ac7f1175d89bafff870dc75fd094876212d8e65fccf4a0728c1205e3c14be875"
+      "sha256": "f6cbe6ff6e21d92fafb8b99283e8f2a9ae7ae15a62eaa7d5cfecf6494d91f9da"
     },
     {
       "path": "artifacts/constants_extracted.json",
@@ -31,27 +31,27 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "f559f5e43dea8eb7e6921a728c0c1866f633573856b993087248c0e22d1da18b"
+      "sha256": "9d44acbe8ca54a07e838764e1d655f4fd16695ee25979efe74fb78ea450cbc3d"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "5445b6a43ac912d4d884dae1da889e73b4919dd8ae90f44c6b8741fd50023e5f"
+      "sha256": "e8c5957547b52a2201640b59fe42ec94ec50c1666c9d7f1ca095c59d558209f0"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "aba2a0eb62bf25446f6c1316b061503e3b3e68c20a63218fb62a63b2260c16b5"
+      "sha256": "af7e4a9b25fe911f764cd61a3696c0789e51d5a47d14e96b7aeb02d4514106ac"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "c92ed455028ece2162bcbf96dd8bd22396489fe5eed533cacee2702a67ecfaf6"
+      "sha256": "1e4e11dfa180969764dbcd0d22673318b29e07b39350888b5eb7031c437e0efd"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "9922aa846de1cbb24590ca88cb1f5bfabd6b2aa0c1a217787857b5ebcbbaeedb"
+      "sha256": "51f459d3f29e6b1b78b2776669a2cfdbcd534792ac70a0c6b411f9725d923f6f"
     },
     {
       "path": "notes/GEOMETRIC_GALOIS_BRIDGE.md",
-      "sha256": "7138433601796ac17a24c27463fbd6d5580a9b5ee0d241a88c19aabe0ba1f189"
+      "sha256": "e9bf8b58dd0238399a4479ad1578c58787a6bb740b5cbf85773cf62087cd20d8"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -63,7 +63,7 @@
     },
     {
       "path": "paper/ANABELIAN_GEOMETRY_PREPRINT.md",
-      "sha256": "819515c611481fded821f1c977015b1164a73a5b93d467bbaa8d3badfb9b671e"
+      "sha256": "3c582031b41340eebfdc1b08e7357d117ec433fdde26391f3cd48ac117ce567b"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -106,7 +106,7 @@
       "sha256": "51bd0f43c576f01175decc5a13e8210c5a3fa36a562e809e8bfd93fb3251f832"
     }
   ],
-  "generated_utc": "2026-05-10T05:16:53Z",
+  "generated_utc": "2026-07-01T19:07:40Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"
