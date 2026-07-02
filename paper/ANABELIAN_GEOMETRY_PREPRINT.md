@@ -43,7 +43,7 @@
 
     ### 1.3 Explicit remainder discipline
 
-    Write `Y = Y_mc^ANA \sqcup R_ANA`, where `Y_mc^ANA` is the declared admissible visible sector induced by `A_super` and `R_ANA` is the explicit complement in the full problem-side class `Y`. The theorem package closes on `Y_mc^ANA`; it does not silently identify admissible closure with unrestricted closure on `Y`. Any stronger external consequence must therefore be expressed as control, reduction, or iterative refinement of `R_ANA`.
+    Write `Y = Y_mc^ANA \sqcup R_ANA`, where `Y_mc^ANA` is the declared admissible visible sector induced by `A_super` and `R_ANA` is the explicit complement in the full problem-side class `Y`. The theorem package closes on `Y_mc^ANA`; admissible closure remains distinct from unrestricted closure on `Y`. Any stronger external consequence must therefore be expressed as control, reduction, or iterative refinement of `R_ANA`.
 
     Equivalently, if `P_mc` denotes projection to the admissible sector and `Q_rem := I - P_mc`, then the visible problem-side object decomposes as
 

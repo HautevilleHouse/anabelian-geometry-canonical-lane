@@ -35,7 +35,7 @@
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "a5826dc8a834135cdfd8ed17e1bd36c96347eedc785a33297e1e54d704b4ae8c"
+      "sha256": "9f3d7550ebc9050f4304add45b98a5d504a73152ab2b84e71207a550769e2a96"
     },
     {
       "path": "notes/EG3_public.md",
@@ -63,7 +63,7 @@
     },
     {
       "path": "paper/ANABELIAN_GEOMETRY_PREPRINT.md",
-      "sha256": "c5057ca2f4fbcd7538dfbfad5ba99af2d6370fcc60b6bdd8ad4b2b46eae05c3a"
+      "sha256": "4642d5dc0f68b7511bd6efea24a73b31037f0f8b4b79206f448a19701b8f3d10"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -106,7 +106,7 @@
       "sha256": "51bd0f43c576f01175decc5a13e8210c5a3fa36a562e809e8bfd93fb3251f832"
     }
   ],
-  "generated_utc": "2026-07-02T16:29:33Z",
+  "generated_utc": "2026-07-02T16:57:55Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"
