@@ -28,4 +28,4 @@
     - `lane.active_lane != "manifold_constrained"`.
     - `all_pass != true`.
     - Any manifest hash mismatch under `repro/repro_manifest.json`.
-    - A verified counterexample to any routed family theorem used by the super-repo.
+    - A certified counterexample to any routed family theorem used by the super-repo.
