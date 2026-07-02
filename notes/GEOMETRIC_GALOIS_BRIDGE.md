@@ -1,6 +1,6 @@
 # Geometric Galois Bridge
 
-Mature wording: `Galois bridge / remainder discipline`.
+Canonical wording: `Galois bridge / remainder discipline`.
 
 In-paper anchor: `paper/ANABELIAN_GEOMETRY_PREPRINT.md` (bridge and margin interface).
 
@@ -39,5 +39,5 @@ If projection, remainder discipline, and endpoint transfer are all explicit, the
 - transfer artifact key: `1.0305400000000002`
 - coherence artifact key: `0.0`
 - margin: `M_ANA`
-- mature equivalent: `Galois bridge / remainder discipline`
+- canonical equivalent: `Galois bridge / remainder discipline`
 - audit surface: `notes/IDENTIFICATION_BRIDGE.md` and `repro/certificate_runtime.json`

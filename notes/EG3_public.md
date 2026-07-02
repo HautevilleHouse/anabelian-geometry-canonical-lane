@@ -1,6 +1,6 @@
 # EG3 Public Note (Compactness and No-Zeno Control)
 
-Mature wording: `first-failure compactness / no-collapse`.
+Canonical wording: `first-failure compactness / no-collapse`.
 
 In-paper anchor: `paper/ANABELIAN_GEOMETRY_PREPRINT.md` (`ANA_G3`).
 
@@ -38,5 +38,5 @@ If near-failure extraction and no-Zeno spacing hold, then `ANA_G3` prevents hidd
 
 - gate: `ANA_G3`
 - artifact key: `0.8038585209003215`
-- mature equivalent: `first-failure compactness / no-collapse`
+- canonical equivalent: `first-failure compactness / no-collapse`
 - audit surface: `artifacts/constants_registry.json` and `repro/certificate_runtime.json`

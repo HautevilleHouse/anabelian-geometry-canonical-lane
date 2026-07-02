@@ -31,27 +31,27 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "31948e08c684cdd3cf41c0041544b0c3bbe844e70362b1ce3b5b6fca2ba936a4"
+      "sha256": "d95b92b5a6d456095f76da368ebb3fae9b6420a81c5490bb06687aba34609cf8"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "bc43a7cc69dcf54e0e22109d81e7d712a019a6927b71078bb1fb913843196b09"
+      "sha256": "a5826dc8a834135cdfd8ed17e1bd36c96347eedc785a33297e1e54d704b4ae8c"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "ec6ea0a32d9adeaa5bd0a1e078f3a1c39ecb05f3c1274bc00b988aa083b7b5a4"
+      "sha256": "fc0e857ff2628aae165128d9f17bfd1489e5f51bb30d552bf65df6cfb7f59dd7"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "69d78967e44f05342a2c1f596b406601b717e92781248307ab17feb1dc7304d3"
+      "sha256": "463c9e7537ff118a4dc45138ff2584d82e9efd6926a910c51950c6eea9c22212"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "e0340a88480d2709133454f880d72075800c94b3307367c3f9cea28eb9c4af44"
+      "sha256": "929acea1ade2201a67bf26ba0d6214fc3fdeeb1744e1987daa462a63d6252697"
     },
     {
       "path": "notes/GEOMETRIC_GALOIS_BRIDGE.md",
-      "sha256": "95f9956e5a0371b471e527197b44b5f7452df5cfaa7ac17cf66c1faaf68b2a31"
+      "sha256": "ae42e329d7ec085b5591c46915f0fa8245f2ffa22195cffee0abe3e272a6ab3d"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -106,7 +106,7 @@
       "sha256": "51bd0f43c576f01175decc5a13e8210c5a3fa36a562e809e8bfd93fb3251f832"
     }
   ],
-  "generated_utc": "2026-07-02T16:12:45Z",
+  "generated_utc": "2026-07-02T16:29:33Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"

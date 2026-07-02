@@ -1,6 +1,6 @@
 # EG2 Public Note (Capture and Restart)
 
-Mature wording: `transport / local-to-global transfer`.
+Canonical wording: `transport / local-to-global transfer`.
 
 In-paper anchor: `paper/ANABELIAN_GEOMETRY_PREPRINT.md` (`ANA_G2`).
 
@@ -38,5 +38,5 @@ If transport accounting and restart preservation hold, then `ANA_G2` carries loc
 
 - gate: `ANA_G2`
 - artifact key: `1.075`
-- mature equivalent: `transport / local-to-global transfer`
+- canonical equivalent: `transport / local-to-global transfer`
 - audit surface: `repro/run_repro.sh` and `repro/certificate_runtime.json`
